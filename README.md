@@ -1,1 +1,1 @@
-*Short HTML Code maybe helpful for your project
+**Short HTML Code maybe helpful for your project
