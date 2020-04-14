@@ -1,0 +1,35 @@
+.coundown-screen {
+    color: white;
+}
+
+.coundown-item {
+    margin-top: 40px;
+    color: white;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    font-size: 32px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    line-height: 1;
+    position: relative;
+}
+.coundown-item span {
+    position: relative;
+    z-index: 2;
+}
+
+.round {
+    transform: rotateX(3.142rad);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    /*transition: all 1s ease-in-out;*/
+    fill: none;
+    stroke: #fff;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-dasharray: 0 999;
+    z-index: 1;
+}
