@@ -5,7 +5,7 @@
         return new Date(new Date(date).setHours(date.getHours() + hours))
     }
     
-    const day = addHoursToDate(curentDate, 320)
+    const day = addHoursToDate(curentDate, 2160)
 
 
     $('#days').countdown(day, function(event) {
