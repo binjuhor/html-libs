@@ -8,4 +8,4 @@ You can also create a fork version to made your own
 
 kiemhd@outlook.com
 
-https://binjuhor.now.sh
+https://binjuhor.com
